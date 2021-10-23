@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dns2": "^2.0.1",
+    "kelp-server": "^0.0.3"
+  }
+}
